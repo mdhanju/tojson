@@ -1,0 +1,146 @@
+[
+  {
+    "Country": "Country",
+    "City": "City",
+    "AccentCity": "AccentCity",
+    "Region": "Region",
+    "Population": "Population",
+    "Latitude": "Latitude",
+    "Longitude": "Longitude"
+  },
+  {
+    "Country": "ad",
+    "City": "aixas",
+    "AccentCity": "Aixàs",
+    "Region": "06",
+    "Population": "",
+    "Latitude": "42.4833333",
+    "Longitude": "1.4666667"
+  },
+  {
+    "Country": "ad",
+    "City": "aixirivali",
+    "AccentCity": "Aixirivali",
+    "Region": "06",
+    "Population": "",
+    "Latitude": "42.4666667",
+    "Longitude": "1.5"
+  },
+  {
+    "Country": "ad",
+    "City": "aixirivall",
+    "AccentCity": "Aixirivall",
+    "Region": "06",
+    "Population": "",
+    "Latitude": "42.4666667",
+    "Longitude": "1.5"
+  },
+  {
+    "Country": "ad",
+    "City": "aixirvall",
+    "AccentCity": "Aixirvall",
+    "Region": "06",
+    "Population": "",
+    "Latitude": "42.4666667",
+    "Longitude": "1.5"
+  },
+  {
+    "Country": "ad",
+    "City": "aixovall",
+    "AccentCity": "Aixovall",
+    "Region": "06",
+    "Population": "",
+    "Latitude": "42.4666667",
+    "Longitude": "1.4833333"
+  },
+  {
+    "Country": "ad",
+    "City": "andorra",
+    "AccentCity": "Andorra",
+    "Region": "07",
+    "Population": "",
+    "Latitude": "42.5",
+    "Longitude": "1.5166667"
+  },
+  {
+    "Country": "ad",
+    "City": "andorra la vella",
+    "AccentCity": "Andorra la Vella",
+    "Region": "07",
+    "Population": "20430",
+    "Latitude": "42.5",
+    "Longitude": "1.5166667"
+  },
+  {
+    "Country": "ad",
+    "City": "andorra-vieille",
+    "AccentCity": "Andorra-Vieille",
+    "Region": "07",
+    "Population": "",
+    "Latitude": "42.5",
+    "Longitude": "1.5166667"
+  },
+  {
+    "Country": "ad",
+    "City": "andorre",
+    "AccentCity": "Andorre",
+    "Region": "07",
+    "Population": "",
+    "Latitude": "42.5",
+    "Longitude": "1.5166667"
+  },
+  {
+    "Country": "ad",
+    "City": "andorre-la-vieille",
+    "AccentCity": "Andorre-la-Vieille",
+    "Region": "07",
+    "Population": "",
+    "Latitude": "42.5",
+    "Longitude": "1.5166667"
+  },
+  {
+    "Country": "ad",
+    "City": "andorre-vieille",
+    "AccentCity": "Andorre-Vieille",
+    "Region": "07",
+    "Population": "",
+    "Latitude": "42.5",
+    "Longitude": "1.5166667"
+  },
+  {
+    "Country": "ad",
+    "City": "ansalonga",
+    "AccentCity": "Ansalonga",
+    "Region": "04",
+    "Population": "",
+    "Latitude": "42.5666667",
+    "Longitude": "1.5166667"
+  },
+  {
+    "Country": "ad",
+    "City": "anyos",
+    "AccentCity": "Anyós",
+    "Region": "05",
+    "Population": "",
+    "Latitude": "42.5333333",
+    "Longitude": "1.5333333"
+  },
+  {
+    "Country": "ad",
+    "City": "arans",
+    "AccentCity": "Arans",
+    "Region": "04",
+    "Population": "",
+    "Latitude": "42.5833333",
+    "Longitude": "1.5166667"
+  },
+  {
+    "Country": "ad",
+    "City": "arinsal",
+    "AccentCity": "Arinsal",
+    "Region": "04",
+    "Population": "",
+    "Latitude": "42.5666667",
+    "Longitude": "1.4833333"
+  }
+]
