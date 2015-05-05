@@ -12,5 +12,4 @@ ad,andorre-la-vieille,Andorre-la-Vieille,07,,42.5,1.5166667
 ad,andorre-vieille,Andorre-Vieille,07,,42.5,1.5166667
 ad,ansalonga,Ansalonga,04,,42.5666667,1.5166667
 ad,anyos,Anyós,05,,42.5333333,1.5333333
-ad,arans,Arans,04,,42.5833333,1.5166667
 ad,arinsal,Arinsal,04,,42.5666667,1.4833333
